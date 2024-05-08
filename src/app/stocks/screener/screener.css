@@ -1,0 +1,17 @@
+.screnner-layout{
+    display: grid;
+    grid-template-columns: 0.5fr auto;
+    column-gap: 60px;
+}
+
+.screener-content{
+    padding: 40px;
+    
+}
+
+.screener-options{
+    display: grid;
+    grid-template-columns: auto 0.5fr;
+    column-gap: 10px;
+    row-gap: 10px;
+}
